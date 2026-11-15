@@ -53,7 +53,7 @@ jobs:
             // Logins that always bypass auth (the bot's maintainers). The
             // owner is intentionally tolerant of capitalisation — GitHub
             // logins are case-insensitive.
-            const BOT_OWNERS = ['vadim-khristenko'];
+            const BOT_OWNERS = ['vaiprog'];
 
             const owner = context.repo.owner;
             const repo = context.repo.repo;
